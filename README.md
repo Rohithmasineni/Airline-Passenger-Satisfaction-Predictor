@@ -102,9 +102,8 @@ This project successfully demonstrates an end-to-end deployment of a deep learni
 ### 🌐 Live Demo & Link: 
 Try the App on Hugging Face: https://huggingface.co/spaces/rohithmasineni/airline-passenger-satisfaction-predictor
 
-### 📁 Download Project Files
-The complete set of Streamlit app files (including model, preprocessing, and UI scripts) is also available as a downloadable folder:
-Link: 
+All Streamlit-related files used in the app (including model, preprocessing script, and app code) are available in the Hugging Face repository:
+- Link: https://huggingface.co/spaces/rohithmasineni/airline-passenger-satisfaction-predictor/tree/main/src
 
 #### Contact
 Feel free to explore the code and resources provided in the uploaded files.
