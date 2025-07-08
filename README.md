@@ -95,20 +95,20 @@ The model performs well in identifying both satisfied and dissatisfied passenger
 
 ### 6. Conclusion
 This project successfully demonstrates an end-to-end deployment of a deep learning classifier with a usable web interface. The model can be leveraged by airline companies to:
-
-Understand what affects passenger satisfaction
-
-Take data-driven decisions to improve service
-
-Deploy scalable, interactive solutions using open-source tools
+- Understand what affects passenger satisfaction
+- Take data-driven decisions to improve service
+- Deploy scalable, interactive solutions using open-source tools
 
 ### 🌐 Live Demo & Link: 
 Try the App on Hugging Face: https://huggingface.co/spaces/rohithmasineni/airline-passenger-satisfaction-predictor
 
 #### Contact
-For feedback, suggestions, or collaborations:
+Feel free to explore the code and resources provided in the uploaded files.
+If you have any feedback, suggestions, or ideas for improvement, I’d love to hear from you!
 
-📧 rohithmasineni223@email.com
+You can reach out to me via:
 
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/rohith-kumar-masineni/
+📧 Email: rohithmasineni223@email.com
+
+🔗 LinkedIn: Rohith Kumar Masineni
 
