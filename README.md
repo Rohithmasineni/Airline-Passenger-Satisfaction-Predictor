@@ -83,10 +83,10 @@ The goal is two-fold:
 ### 4. Results and Discussion
 | Metric    | Value |
 | --------- | ----- |
-| Accuracy  | 91.2% |
-| Precision | 90.5% |
-| Recall    | 92.0% |
-| F1-Score  | 91.2% |
+| Accuracy  | 96% |
+| Precision | 96% |
+| Recall    | 94% |
+| F1-Score  | 95% |
 
 ### 💬 Discussion
 The ANN model significantly outperformed classical ML models in prediction accuracy and generalization.
@@ -103,12 +103,12 @@ Take data-driven decisions to improve service
 Deploy scalable, interactive solutions using open-source tools
 
 ### 🌐 Live Demo & Link: 
-Try the App on Hugging Face
+Try the App on Hugging Face: https://huggingface.co/spaces/rohithmasineni/airline-passenger-satisfaction-predictor
 
 #### Contact
 For feedback, suggestions, or collaborations:
 
 📧 rohithmasineni223@email.com
 
-🔗 Connect with me on LinkedIn:
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/rohith-kumar-masineni/
 
