@@ -110,5 +110,5 @@ You can reach out to me via:
 
 📧 Email: rohithmasineni223@email.com
 
-🔗 LinkedIn: Rohith Kumar Masineni
+🔗 LinkedIn: https://www.linkedin.com/in/rohith-kumar-masineni/
 
