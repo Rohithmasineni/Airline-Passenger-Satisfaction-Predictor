@@ -1,6 +1,6 @@
 # Airline-Passenger-Satisfaction-Predictor
 
-## ✈️ Airline Passenger Satisfaction Predictor – Deep Learning Web App
+## Airline Passenger Satisfaction Predictor – Deep Learning Web App ✈️ 
 
 An end-to-end machine learning & deep learning solution designed to predict airline passenger satisfaction using flight experience data. This project brings together PyTorch, best practices in data science, and a clean Streamlit UI for real-time interaction, deployed seamlessly on Hugging Face Spaces.
 
@@ -93,7 +93,7 @@ The ANN model significantly outperformed classical ML models in prediction accur
 
 The model performs well in identifying both satisfied and dissatisfied passengers.
 
-### 6. Conclusion
+### 5. Conclusion
 This project successfully demonstrates an end-to-end deployment of a deep learning classifier with a usable web interface. The model can be leveraged by airline companies to:
 - Understand what affects passenger satisfaction
 - Take data-driven decisions to improve service
